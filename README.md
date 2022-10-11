@@ -39,12 +39,15 @@ Another challenge encountered was not being able to get the subheadings and bull
 What are two conclusions you can draw about the Outcomes based on Launch Date?
 * The month of May had the most successful Kickstarter Campaign
 * January, June, July, and October all had approximately the same number of failed campaigns launched
+
 What can you conclude about the Outcomes based on Goals?
 * The most successful kickstarter campaigns were those with a goal less than $1000
 * The least successful kickstarter campaign were those between $45000 to $49999
 * No kickstarter campaigns were cancelled
+
 What are some limitations of this dataset?
 * Limitations of this dataset includes 
+
 What are some other possible tables and/or graphs that we could create?
 * Table of Successful/Failed Kickstarter Campaigns
 * Table of more Descriptive Statistics (IQR, Upper and Lower Quartile)
