@@ -21,9 +21,9 @@ Uncovering data trends in a kickstarter spreadsheet and providing visual feedbac
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/110814780/195014622-e4eb6814-3cc8-49df-8062-3e9a55f21ca1.png)
 
 ### Analysis of Outcomes Based on Goals
-* The most successful kickstarter campaigns were those with a goal less than $1000
-* The least successful kickstarter campaign were those between $45000 to $49999
-* No kickstarter campaigns were cancelled
+* The most successful kickstarter campaigns for plays were those with a goal less than $1000
+* The least successful kickstarter campaign for plays were those between $45000 to $49999
+* No kickstarter campaigns for plays were cancelled
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/110814780/195014712-a2fd7f38-2285-4be2-a25d-565a1cb43690.png)
 
