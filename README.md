@@ -5,6 +5,9 @@
 
 Uncovering data trends in a kickstarter spreadsheet and providing visual feedback
 
+[Kickstarter_Challenge.xlsx.zip](https://github.com/pfrivas/kickstarter-analysis/files/9752319/Kickstarter_Challenge.xlsx.zip)
+
+
 ### Purpose
 * The purpose of this analysis is to provide Louise with a series of trends through visualization and statistics in order to determine which months would be the best to start a kickstarter campaign for a theater and plays and uncover trends in order to help Louise find the most success in her campaign
 
@@ -46,7 +49,7 @@ What can you conclude about the Outcomes based on Goals?
 * No kickstarter campaigns were cancelled
 
 What are some limitations of this dataset?
-* Limitations of this dataset includes 
+* Limitations of this dataset includes no data on canceled kickstarters for plays 
 
 What are some other possible tables and/or graphs that we could create?
 * Table of Successful/Failed Kickstarter Campaigns
